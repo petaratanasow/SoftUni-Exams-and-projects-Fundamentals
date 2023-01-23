@@ -1,2 +1,2 @@
 # SoftUni-Exams-and-projects-Fundamentals
-SoftUni Fundamentals exams and projects 😎
+SoftUni Fundamentals projects and exams 😎
