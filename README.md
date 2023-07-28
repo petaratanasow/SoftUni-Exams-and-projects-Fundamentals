@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Petar Atanasov</h1>
-<h3 align="left">C# Developer</h3>
+<h3 align="left">QA Engeneer and C# Developer</h3>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="centre">
